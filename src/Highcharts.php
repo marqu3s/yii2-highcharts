@@ -8,7 +8,7 @@
  * @license https://www.opensource.org/licenses/mit-license.php MIT License
  */
 
-namespace miloschuman\highcharts;
+namespace marqu3s\highcharts;
 
 use yii\base\Widget;
 use yii\helpers\ArrayHelper;
@@ -22,7 +22,7 @@ use yii\web\View;
  *
  * To use this widget, you can insert the following code in a view:
  * ```php
- * echo \miloschuman\highcharts\Highcharts::widget([
+ * echo \marqu3s\highcharts\Highcharts::widget([
  *     'options' => [
  *         'title' => ['text' => 'Fruit Consumption'],
  *         'xAxis' => [
