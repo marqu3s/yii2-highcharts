@@ -8,7 +8,7 @@
  * @license https://www.opensource.org/licenses/mit-license.php MIT License
  */
 
-namespace miloschuman\highcharts;
+namespace marqu3s\highcharts;
 
 /**
  * @see Highcharts
