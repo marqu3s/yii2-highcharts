@@ -52,7 +52,7 @@ use yii\web\View;
 class Highcharts extends Widget
 {
 
-    protected $constr = 'chart';
+    protected $constr = 'Chart';
     protected $baseScript = 'highcharts';
     public $options = [];
     public $htmlOptions = [];
